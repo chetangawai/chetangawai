@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey👋, I am Chetan👩‍💻!
 
-<!--
-**chetangawai/chetangawai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+<p>I’m a Software Engineer from Pune, India 🇮🇳. I am Javascript <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/480px-JavaScript-logo.png" height="15px">  enthusiast and currently learning Ruby on Rails <img src="ruby.png" height="15px">.
+I am working remotely with <a href="https://www.bigbinary.com/">BigBinary.</a></p>
+<p>You can know more about me on my <a href="https://chetangawai.com" target="_blank"> website. </a></p>
 
-Here are some ideas to get you started:
+<p>
+Other than coding, I am passionate about cooking and manage my food blog - <a href="https://www.gharwalaswad.com/">Gharwalaswad.</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's stay in touch!
+* [Twitter](https://twitter.com/ChetanGawai1)
+* [LinkedIn](https://www.linkedin.com/in/chetan-gawai-66a12a17/)
+* [Medium](https://medium.com/@chetansgawai)
+* [Food Blog](https://www.gharwalaswad.com/)
