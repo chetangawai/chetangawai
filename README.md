@@ -2,7 +2,7 @@
 
 ## About me
 <p>I’m a Software Engineer from Pune, India 🇮🇳. I am Javascript <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/480px-JavaScript-logo.png" height="15px">  enthusiast and currently learning Ruby on Rails <img src="ruby.png" height="15px">.
-I am working remotely with <a href="https://www.saeloun.com">Saeloun</a></p>
+I am working remotely with <a href="https://www.saeloun.com">Saeloun</a>.</p>
 <p>You can know more about me on my <a href="https://chetangawai.com" target="_blank"> website. </a></p>
 
 <p>
