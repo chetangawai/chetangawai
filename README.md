@@ -1,9 +1,9 @@
 ### Hey👋, I am Chetan👩‍💻!
 
 ## About me
-<p>I’m a Software Engineer from Pune, India 🇮🇳. I am Javascript <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/480px-JavaScript-logo.png" height="15px">  enthusiast and currently learning Ruby on Rails <img src="ruby.png" height="15px">.
-I am working remotely with <a href="https://www.saeloun.com">Saeloun</a>.
-I love to write blogs</a>.
+<p>I’m a Software Engineer from Pune, India 🇮🇳. I am Javascript <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/480px-JavaScript-logo.png" height="15px"> enthusiast.
+I am working remotely for <a href="https://www.saeloun.com">Saeloun</a>.
+I love to <a href='https://blog.saeloun.com/authors/chetan/'>write blogs</a>.
 </p>
 
 <p>You can know more about me on my <a href="https://chetangawai.com" target="_blank"> website. </a></p>
