@@ -1,4 +1,4 @@
-### Hey👋, I am Chetan👩‍💻!
+### Hey, I am Chetan👩‍💻!
 
 ## About me
 <p>I’m a Software Engineer from Pune, India 🇮🇳. I am Javascript <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/480px-JavaScript-logo.png" height="15px"> enthusiast.
